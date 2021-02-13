@@ -1,0 +1,2 @@
+- 👋 Hey, I’m Florian Döhle and currently working on my master thesis project on Ecologically Unequal Exchange at the University of Bayreuth.
+- 📫 You can reach me by email at florian.doehle@uni-bayreuth.de
